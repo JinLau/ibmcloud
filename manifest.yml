@@ -1,0 +1,5 @@
+applications:
+ - name: adoring-allen
+   memory: 256M
+   host: adoring-allen
+   buildpack: staticfile_buildpack
